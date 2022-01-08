@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="54.4 33 31 63">
+			  <defs>
+			    <filter id="Rectangle_60" x="0" y="0" width="150" height="150" filterUnits="userSpaceOnUse">
+			      <feOffset dx="5" dy="10" input="SourceAlpha"/>
+			      <feGaussianBlur stdDeviation="15" result="blur"/>
+			      <feFlood flood-color="#3b3735" flood-opacity="0.051"/>
+			      <feComposite operator="in" in2="blur"/>
+			      <feComposite in="SourceGraphic"/>
+			    </filter>
+			  </defs>
+			  <g id="up" transform="translate(-1599 -6133)">
+			    <g transform="matrix(1, 0, 0, 1, 1599, 6133)" filter="url(#Rectangle_60)">
+			      <path id="Rectangle_60-2" data-name="Rectangle 60" d="M20,0H40A20,20,0,0,1,60,20V40A20,20,0,0,1,40,60H20A20,20,0,0,1,0,40V20A20,20,0,0,1,20,0Z" transform="translate(40 35)" fill="#5c76b2"/>
+			    </g>
+			    <path id="Tracé_958" data-name="Tracé 958" d="M22.175,9.358a1.43,1.43,0,0,0-1.43-1.43H5.063l5.813-5.42A1.43,1.43,0,1,0,8.923.421L.455,8.311a1.43,1.43,0,0,0,0,2.091l8.468,7.9a1.434,1.434,0,1,0,1.952-2.1L5.063,10.788H20.746A1.43,1.43,0,0,0,22.175,9.358Z" transform="translate(1678.681 6187) rotate(90)" fill="#f3a514"/>
+			  </g>
+			</svg>
